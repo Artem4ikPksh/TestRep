@@ -68,7 +68,7 @@ Example of application functionality is provided in the file with requests: `./s
 
 Some basic information about the available endpoints is provided by Swagger at: http://localhost:8080/swagger-ui/index.html
 
-## The logss
+## The logs
 
 The logs are created in the `./logs` subfolder. They can be accessed via the endpoint:
 http://localhost:8080/actuator/logfile
